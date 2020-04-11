@@ -30,7 +30,15 @@ Great informational video on how to help community with 3d printing by smarter e
 
 ## 3d Print files
 
+[The face sheild I'm printing right now (20200411)](https://makernexuswiki.com/index.php?title=3D_printed_face_shields#NOW)
+
+-------------------
+
+
 [Prusa Research Face Shield](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2)
+
+
+-------------------
 
 
 # Material resources
